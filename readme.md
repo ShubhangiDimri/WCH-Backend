@@ -88,8 +88,8 @@ Configuration files
 
 Running the Project
 1. Clone the repository
-git clone https://github.com/your-username/women-community-hall.git
-2. Start MongoDB
+2. 
+3. Start MongoDB
 
 Make sure MongoDB is running locally.
 
