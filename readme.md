@@ -38,20 +38,6 @@ Allows administrators to create events and users to register for workshops or co
 
 Sends notifications related to booking confirmations, event updates, and reminders.
 
-## System Architecture
-Frontend (React)
-        ↓
-API Gateway
-        ↓
---------------------------------
-User & Safety Service
-Booking & Payment Service
-Event Service
-Notification Service
---------------------------------
-        ↓
-MongoDB Databases
-
 Each microservice runs independently and communicates via REST APIs.
 
 ## Technology Stack
